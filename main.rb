@@ -14,3 +14,4 @@ loop do
 	show_comparison numbers, user_numbers
  	break if !want_to_play?
  end
+bye_user name
