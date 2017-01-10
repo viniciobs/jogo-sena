@@ -74,6 +74,11 @@ def want_to_play?
 	end
 end
 
+def bye_user name
+	puts ''
+	puts 'Bye, ' + name
+end
+
 
 
 
